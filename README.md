@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrizelleTenoso
-- 👀 I’m interested in learning programming.
+- 👀 I’m interested in learning programming languages.
 - 🌱 I’m currently learning different programming languages like JAVA SCRIPT, C++, C#, and PYTHON
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on my email: chizelletenoso@gmail.com
